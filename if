@@ -1,0 +1,6 @@
+chuva=False
+if chuva==True:
+    print("levar guarda-chuva" )    
+
+if chuva==False:
+    print("nao levar guarda-chuva")
